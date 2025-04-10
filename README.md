@@ -19,8 +19,8 @@ To set up the project, follow these steps:
    - **Clone the Repository**: Use the following command to clone the repository:
 
      ```bash
-     git clone https://github.com/your-username/my-v0-project.git
-     cd my-v0-project
+     git clone [https://github.com/your-username/my-v0-project.git](https://github.com/tanuj179/Bookmark_Manager.git)
+     cd Bookmark_Manager
      ```
 
    - **Download the ZIP**: Alternatively, download the ZIP file from the repository page, extract it, and navigate to the extracted folder.
