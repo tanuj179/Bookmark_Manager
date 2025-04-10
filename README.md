@@ -31,3 +31,12 @@ To set up the project, follow these steps:
 
    ```bash
    npm run setup
+   ```
+.This command will install all required packages as specified in package.json.
+
+3.Running the Project
+To start the development server, use the following command:
+   ```BASH
+   npm run dev
+   ```
+This will start the Next.js development server, and you can view the project in your browser at http://localhost:3000.
